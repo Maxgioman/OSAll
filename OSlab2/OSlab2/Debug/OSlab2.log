@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  lab2.cpp
+  Создание кода...
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\ACER\source\repos\OSlab2\Debug\OSlab2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

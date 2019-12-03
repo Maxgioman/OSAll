@@ -1,0 +1,4 @@
+﻿  OSlab3.cpp
+C:\Users\ACER\source\repos\OSlab3\OSlab3\OSlab3.cpp(55,53): warning C4244:  аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\Users\ACER\source\repos\OSlab3\OSlab3\OSlab3.cpp(140,8): warning C4101:  result: неиспользованная локальная переменная
+  OSlab3.vcxproj -> C:\Users\ACER\source\repos\OSlab3\Debug\OSlab3.exe
