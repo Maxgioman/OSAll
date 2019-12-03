@@ -1,0 +1,4 @@
+LIBRARY DLL.dll
+EXPORTS
+	attr_search 
+	search

@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+C:\Users\ACER\source\repos\OSLab5\DLL\DLL\Source.cpp(26,1): warning C4273:  attr_search: несовместимая компоновка dll
+C:\Users\ACER\source\repos\OSLab5\DLL\DLL\dll.h(10,37): message :  см. предыдущее определение "attr_search"
+C:\Users\ACER\source\repos\OSLab5\DLL\DLL\Source.cpp(38,11): warning C4101:  hThread: неиспользованная локальная переменная
+C:\Users\ACER\source\repos\OSLab5\DLL\DLL\Source.cpp(56,18): warning C4273:  search: несовместимая компоновка dll
+  Создание кода...
+C:\Users\ACER\source\repos\OSLab5\DLL\DLL\dll.h(12,27): message :  см. предыдущее определение "search"
+     Создается библиотека C:\Users\ACER\source\repos\OSLab5\DLL\Debug\DLL.lib и объект C:\Users\ACER\source\repos\OSLab5\DLL\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\ACER\source\repos\OSLab5\DLL\Debug\DLL.dll
